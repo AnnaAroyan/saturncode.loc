@@ -243,7 +243,7 @@
 							<div class="twelve-columns text-center">
 								<h2 class="large-title text-height-12">
 									<span data-animation-child class="title-fill" data-animation="title-fill-anim" data-text="We are Creative">We are Creative</span><br>
-									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We are Xen">We are Xen</span>
+									<span data-animation-child class="title-fill tr-delay01" data-animation="title-fill-anim" data-text="We are Xen">We are Saturn Code</span>
 								</h2>
 							</div><!-- column end -->
 							<!-- column start -->
